@@ -1,6 +1,6 @@
-# Projeto Alura Flix - Oracle ONE T6
+# Projeto AluraFlix - Oracle ONE T6
 
-<p  align="center" ><img src="./apresentacao/Logo.png" align="center"  width="200"  ></img></p>
+<p  align="center" ><img src="./src/assets/img/Logo.png" align="center"  width="200"  ></img></p>
 
 # Aluraflix
 
