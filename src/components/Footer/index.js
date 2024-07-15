@@ -4,7 +4,7 @@ import { FooterBase } from "./styles";
 function Footer() {
   return (
     <FooterBase>
-      <h2 id="jean">Jean Carlos De Meira</h2>
+      <h2 id="Leo">Léo Santander Nycz</h2>
       <p>
         Criado por{" "}
         <a href="https://github.com/santandernycz">Léo Santander Nycz,</a>
