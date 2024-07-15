@@ -7,7 +7,7 @@ function Footer() {
       <h2 id="Leo">Léo Santander Nycz</h2>
       <p>
         Criado por{" "}
-        <a href="https://github.com/santandernycz">Léo Santander Nycz,</a>
+        <a href="https://github.com/santandernycz">Léo Santander Nycz, </a>
         durante o{" "}
         <a href="https://www.alura.com.br/">
           Curso Oracle ONE - Desenvolvido pela Alura.
