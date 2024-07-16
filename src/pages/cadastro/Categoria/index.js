@@ -19,7 +19,7 @@ function CadastroCategoria() {
   useEffect(() => {
     const URL_TOP = window.location.hostname.includes("localhost")
       ? "http://localhost:3000/categorias"
-      : "https://aluraflix-topaz.vercel.app/categorias";
+      : "https://my-json-server.typicode.com/santandernycz/aluraflix-api";
     fetch(URL_TOP).then(async (respostaDoServidor) => {
       const resposta = await respostaDoServidor.json();
       setCategorias([...resposta]);
